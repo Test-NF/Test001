@@ -1,3 +1,4 @@
 <%
-Response.Write(Now)
+Response.Write("<BR>" & Now)
+
 %>
